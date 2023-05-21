@@ -1,0 +1,23 @@
+This program requires the following Python packages:
+
+1. `pygame`: This package is used for creating 2D games in Python. It provides the necessary functions for drawing shapes, handling user input, and controlling the game loop.
+
+2. `random`: This is a built-in Python module used for generating random numbers.
+
+3. `pymunk`: Pymunk is a wrapper around the Chipmunk physics library, and it provides physics simulation functionality.
+
+To install the necessary packages, you can use pip, which is the Python package installer. You can install them using the following commands in your command line:
+
+```bash
+pip install pygame
+pip install pymunk
+```
+
+If you're using a Jupyter notebook, you can run these commands in a cell by prefixing them with an exclamation mark:
+
+```bash
+!pip install pygame
+!pip install pymunk
+```
+
+Make sure you have pip installed and your Python environment properly set up before running these commands.
