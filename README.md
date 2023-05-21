@@ -1,5 +1,4 @@
 # CHAT-GPT4-3D-Fun
-Different Python graphics stuff. Fun to watch and mess with.
 
 This program simulates a dynamic environment where a specified number of cubes, balls, and triangles interact with each other and bounce off the edges of the screen. It uses the Pygame library for rendering graphics and the Pymunk library for handling physics. The unique aspect of this program is how it changes the shapes and colors of the objects upon collision, giving a fascinating visual effect.
 
